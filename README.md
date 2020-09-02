@@ -20,6 +20,8 @@ Para llegar obtener esta información y llegar a contestar estas preguntas vamos
 
 Link evento: https://www.eventbrite.com.ar/e/117423840869.
 
+Juan Doppler nos contará cómo utilizar Git en GitHub para programar de forma colaborativa y mantener un control de versiones. Lxs participantes simularán una colaboración y resolverán un conflicto de versiones. El objetivo es que puedan aplicar las herramientas aprendidas en el manejo de documentación y trabajo colaborativo de su día a día.
+
 ### Encuentro 3 - Placa controladora
 
 Link evento: https://www.eventbrite.com.ar/e/117424743569.
