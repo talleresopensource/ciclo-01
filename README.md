@@ -26,6 +26,11 @@ Juan Doppler nos contará cómo utilizar Git en GitHub para programar de forma c
 
 Link evento: https://www.eventbrite.com.ar/e/117424743569.
 
+Marcos Coletti mostrará cómo armar y controlar circuitos básicos con una placa controladora Arduino. Arduino es una plataforma de desarrollo basada en una placa electrónica de hardware libre que brinda una gran versatilidad y facilidad a la hora de desarrollar prototipos para un sinfín de aplicaciones.
+En este taller vamos a ver el ecosistema Arduino, mostrando todas las posibilidades para diferentes aplicaciones en el ámbito de la investigación en Neurociencias. Veremos cómo conectar la placa Arduino Uno junto con sus sensores y actuadores y, por último, de forma práctica e interactiva aprenderemos como programarla con un ejemplo de aplicación real en investigación.
+
 ### Encuentro 4 - Fabricación 3D
 
 Link evento: https://www.eventbrite.com.ar/e/117425212973.
+
+Cecilia Herbert describirá técnicas de fabricación 3D para render y prototipado o fabricación en impresora 3D, y cómo compartir el diseño de forma abierta. Lxs participantes diseñarán una pieza sencilla en un software de diseño CAD y podrán modificar una bajada de un repositorio. El objetivo es mostrar cómo, sin ser expertxs, podemos personalizar nuestro setup según nuestras necesidades y compartir los diseños de hardware de manera abierta.
