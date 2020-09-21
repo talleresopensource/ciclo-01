@@ -1,0 +1,11 @@
+Ejercicio TalleresOS Fabricación.pdf es el instructivo de la actividad propuesta.
+Tiene los ejercicios A, B y C.
+
+Si quieren ir directo a la parte C sin pasar por la parte AB,
+entonces necesitan
+pieza_ejercicioAB.step la pieza de la parte AB
+amplificador.step el archivo del amplificador que provee el fabricante
+
+Resoluciones a los ejercicios en el entorno nativo:
+ejercicioAB_resuelto.FCStd
+ejercicioC_ensamblado.FCStd
