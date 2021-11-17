@@ -1,6 +1,6 @@
-# ciclo-01
+# Ciclo 01
 
-Lista de reproducción de YouTube: https://youtube.com/playlist?list=PL2ttpDKStgJA0ci85U9-KzfTePdr2XJPX
+[Lista de reproducción de YouTube](https://youtube.com/playlist?list=PL2ttpDKStgJA0ci85U9-KzfTePdr2XJPX)
 
 ### Encuentro 1 - Programación para análisis y visualización de datos por Gonzalo Uribarri
 
